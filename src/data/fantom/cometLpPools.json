@@ -1,0 +1,40 @@
+[
+  {
+    "name": "maker-maker-wftm",
+    "address": "0x58b03F05e484d29787E18AfD39c1E358EFae06F3",
+    "decimals": "1e18",
+    "chainId": 250,
+    "poolId": 0,
+    "lp0": {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "oracle": "tokens",
+      "oracleId": "WFTM",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0x30eB4447A0F35d48B096D39E9FF08FB74CB65a86",
+      "oracle": "tokens",
+      "oracleId": "MAKER",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "maker-makershare-wftm",
+    "address": "0x9BE96b7704392E915408Ce4E8079A2222B520033",
+    "decimals": "1e18",
+    "chainId": 250,
+    "poolId": 1,
+    "lp0": {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "oracle": "tokens",
+      "oracleId": "WFTM",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0x3e32a058d0F58aD927bFE312f58108D5bd5D9BF2",
+      "oracle": "tokens",
+      "oracleId": "MAKERSHARE",
+      "decimals": "1e18"
+    }
+  }
+]
